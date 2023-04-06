@@ -1,0 +1,11 @@
+always run code on the virtual environment
+
+
+run env
+source env/bin/activate
+
+deactivate env
+deactivate
+
+Flask
+FLASK_APP=card_generator.py
