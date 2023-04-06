@@ -14,11 +14,11 @@ font = ImageFont.truetype(font_path, size=60)
 font_small = ImageFont.truetype(font_path, size=40)
 
 # Set up the team logo
-logo_path = "/Users/Nacho/Desktop/VentureClub/logoboca.png"
+logo_path = "/Users/Nacho/Desktop/VentureClub/assets/logoboca.png"
 logo = Image.open(logo_path).resize((200, 200), resample=Image.BICUBIC)
 
 # Set up the player photo
-photo_path = "/Users/Nacho/Desktop/VentureClub/schiavi.jpg"
+photo_path = "/Users/Nacho/Desktop/VentureClub/assets/schiavi.jpg"
 photo = Image.open(photo_path).resize((200, 200), resample=Image.BICUBIC)
 
 # Set up the text
