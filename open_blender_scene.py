@@ -1,5 +1,7 @@
 # this code generates a blender scene from scratch, puts a monkey
 # inside and a lamp, and saves it as a .blend file
+# works
+
 
 import bpy
 import os
