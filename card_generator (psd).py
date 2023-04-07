@@ -10,6 +10,8 @@ import time
 from PIL import Image, ImageDraw, ImageFont
 
 
+
+
 # Initialize Flask app
 app = Flask(__name__)
 
